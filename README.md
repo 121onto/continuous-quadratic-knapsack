@@ -1,6 +1,6 @@
 # Algorithms for solving the continuous quadratic knapsack problem
 
-This code is based on the following paper:
+A python implementation of some solutions to the knapsack problem.  This code is based on the following paper:
 
 M. Patriksson and C. Strömberg. Algorithms for the continuous
 nonlinear resource allocation problem – new implementations
